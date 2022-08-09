@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/taskbuddy.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [linkedin](www.linkedin.com/in/abhishek-acharya-220ba61ba).
 
 ### License
 
