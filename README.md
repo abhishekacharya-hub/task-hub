@@ -36,13 +36,13 @@ To run **Taskbuddy** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/taskbuddy.git
+sudo git clone https://github.com/abhishekacharya-hub/task-hub.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/taskbuddy.git
+git clone https://github.com/abhishekacharya-hub/task-hub.git
 ```
 
 ### Contact
